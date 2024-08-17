@@ -36,3 +36,52 @@
     transform: rotate(360deg);
   }
 }
+
+
+.head{
+  height: 100px;
+  width: 100%;
+  background-color: gray;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  justify-content: space-around;
+
+
+}
+
+button{
+  border: none;
+  height: 40px;
+  width: 80px;
+  cursor: pointer;
+  border-radius: 3px;
+  background-color: white;
+}
+
+input{
+  border: none;
+  height: 40px;
+  border: 1px solid grey;
+  border-right: none;
+  font-size: 20px;
+}
+
+#bina{
+  margin-bottom: 0px;
+  width: 30px;
+  height: 44px;
+  margin-top: 1px;
+  border-radius:1px;
+  border:1px solid grey;
+  border-left: none;
+  cursor: pointer;
+
+
+}
+.s{
+  justify-content: center;
+  align-items: center;
+  display: flex;
+   flex-direction: row;
+}

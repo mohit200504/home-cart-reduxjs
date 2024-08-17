@@ -1,0 +1,29 @@
+.searchitem{
+
+    padding: 10px 10px ;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+
+
+}
+
+.set{
+    width: 80%;
+  padding: 10px 10px ;
+ 
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.filter{
+    width: 20%;
+    height: 200px;
+    background-color: antiquewhite;
+}

@@ -1,0 +1,86 @@
+#binh{
+    background-color: aqua;
+    width: 40px;
+}
+.main{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.con{
+    padding: 10px 10px;
+    width: 100%;
+   
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+
+}
+
+.item{
+    height: 250px;
+    width:250px;
+    background-color:white;
+    margin-top: 10px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    box-shadow: 0px 0px 3px grey;
+    border-radius: 5px;
+    flex-direction: column;
+    cursor: pointer;
+}
+
+.imagein{
+
+    height: 80%;
+    width: 80%;
+   
+    justify-content: center;
+    align-items: center;
+    display: flex;
+
+}
+img{
+    height: 100%;
+    width: 100%;
+
+}
+.priceandcart{
+    width: 80%;
+    height: 20%;
+    
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+
+#bincart{
+    background-color:lightslategray;
+    color:white;
+}
+
+.s{
+    margin-top: 10px;
+    margin-bottom: 20px;
+
+}
+#bina{
+  
+    height: 44px;
+    width: 44px;
+   
+   
+}
+
+
